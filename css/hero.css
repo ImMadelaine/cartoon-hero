@@ -8,20 +8,23 @@ body{
 /* Header styles*/
 
 header{
-    background-color: #D8BFD8;
+    background: url(https://cdn0.gamesports.net/content_teasers/149000/149285.jpg?1699371515);
+    background-repeat: no-repeat; 
+    background-size: 1400px;
+    background-position: 0%;
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
 header h1{
-    color: #663399;
+    color: white;
     font-size: 50px;
 }
 
 header img{
     border-radius: 150px;
-    border: 6px solid #663399;
+    border: 6px solid white;
 }
 
 /* H1, H2 styles*/
